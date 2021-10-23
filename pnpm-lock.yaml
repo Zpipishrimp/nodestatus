@@ -92,7 +92,7 @@ importers:
       '@types/koa__router': ^8.0.7
       '@types/koa-static': ^4.0.2
       '@types/koa-webpack': ^6.0.4
-      '@types/ws': ^7.4.7
+      '@types/ws': ^8.0.0
       bcryptjs: ^2.4.3
       bufferutil: ^4.0.3
       commander: ^8.1.0
@@ -136,7 +136,7 @@ importers:
       '@types/koa__router': 8.0.8
       '@types/koa-static': 4.0.2
       '@types/koa-webpack': 6.0.4
-      '@types/ws': 7.4.7
+      '@types/ws': 8.2.0
       bcryptjs: 2.4.3
       commander: 8.2.0
       cross-env: 7.0.3
@@ -1276,7 +1276,7 @@ packages:
   /@types/accepts/1.3.5:
     resolution: {integrity: sha512-jOdnI/3qTpHABjM5cx1Hc0sKsPoYCp+DP/GJRGtDlPd7fiV9oXGGIcjW/ZOxLIvjGz8MA+uMZI9metHlgqbgwQ==}
     dependencies:
-      '@types/node': 16.9.1
+      '@types/node': 16.10.3
     dev: true
 
   /@types/babel__core/7.1.16:
@@ -1316,13 +1316,13 @@ packages:
     resolution: {integrity: sha512-a6bTJ21vFOGIkwM0kzh9Yr89ziVxq4vYH2fQ6N8AeipEzai/cFK6aGMArIkUeIdRIgpwQa+2bXiLuUJCpSf2Cg==}
     dependencies:
       '@types/connect': 3.4.35
-      '@types/node': 16.9.1
+      '@types/node': 16.10.3
     dev: true
 
   /@types/connect/3.4.35:
     resolution: {integrity: sha512-cdeYyv4KWoEgpBISTxWvqYsVy444DOqehiF3fM3ne10AmJ62RSyNkUnxMJXHQWRQQX2eR94m5y1IZyDwBjV9FQ==}
     dependencies:
-      '@types/node': 16.9.1
+      '@types/node': 16.10.3
     dev: true
 
   /@types/content-disposition/0.5.4:
@@ -1335,7 +1335,7 @@ packages:
       '@types/connect': 3.4.35
       '@types/express': 4.17.13
       '@types/keygrip': 1.0.2
-      '@types/node': 16.9.1
+      '@types/node': 16.10.3
     dev: true
 
   /@types/d3-geo/1.12.3:
@@ -1355,7 +1355,7 @@ packages:
   /@types/express-serve-static-core/4.17.24:
     resolution: {integrity: sha512-3UJuW+Qxhzwjq3xhwXm2onQcFHn76frIYVbTu+kn24LFxI+dEhdfISDFovPB8VpEgW8oQCTpRuCe+0zJxB7NEA==}
     dependencies:
-      '@types/node': 16.9.1
+      '@types/node': 16.10.3
       '@types/qs': 6.9.7
       '@types/range-parser': 1.2.4
     dev: true
@@ -1372,7 +1372,7 @@ packages:
   /@types/formidable/1.2.4:
     resolution: {integrity: sha512-Z+ICLPV/BPYK5pHYDryNKRk26etA9WCicg620XZM0Uqto5gOv6XySMIlXQ3Ae6V3tS7CZNpE8UdHuuxOZxWVfw==}
     dependencies:
-      '@types/node': 16.9.1
+      '@types/node': 16.10.3
     dev: true
 
   /@types/fs-extra/9.0.13:
@@ -1508,7 +1508,7 @@ packages:
   /@types/memory-fs/0.3.3:
     resolution: {integrity: sha512-rLEYzl1xODshz+Lm+YX8NYws8Xw7/qcYbQInMkotl96VpLZmUvoCfYYGxfajMSiugANV02QO5Fc+R98KKeE4gQ==}
     dependencies:
-      '@types/node': 16.9.1
+      '@types/node': 16.10.3
     dev: true
 
   /@types/mime/1.3.2:
@@ -1617,7 +1617,7 @@ packages:
     resolution: {integrity: sha512-nCkHGI4w7ZgAdNkrEu0bv+4xNV/XDqW+DydknebMOQwkpDGx8G+HTlj7R7ABI8i8nKxVw0wtKPi1D+lPOkh4YQ==}
     dependencies:
       '@types/mime': 1.3.2
-      '@types/node': 16.9.1
+      '@types/node': 16.10.3
     dev: true
 
   /@types/source-list-map/0.1.2:
@@ -1656,15 +1656,15 @@ packages:
   /@types/webpack-hot-client/4.1.2:
     resolution: {integrity: sha512-3bON4+5yLp4FKSC4OCnxqgUo4WU/uChIyIDhg+r79D2xAV+tKBfeUuROlNdasgaw2wzMdmlhtUzLXJmOt9iVjA==}
     dependencies:
-      '@types/node': 16.9.1
+      '@types/node': 16.10.3
       '@types/webpack': 4.41.31
-      '@types/ws': 7.4.7
+      '@types/ws': 8.2.0
     dev: true
 
   /@types/webpack-sources/3.2.0:
     resolution: {integrity: sha512-Ft7YH3lEVRQ6ls8k4Ff1oB4jN6oy/XmU6tQISKdhfh+1mR+viZFphS6WL0IrtDOzvefmJg5a0s7ZQoRXwqTEFg==}
     dependencies:
-      '@types/node': 16.9.1
+      '@types/node': 16.10.3
       '@types/source-list-map': 0.1.2
       source-map: 0.7.3
     dev: true
@@ -1672,7 +1672,7 @@ packages:
   /@types/webpack/4.41.31:
     resolution: {integrity: sha512-/i0J7sepXFIp1ZT7FjUGi1eXMCg8HCCzLJEQkKsOtbJFontsJLolBcDC+3qxn5pPwiCt1G0ZdRmYRzNBtvpuGQ==}
     dependencies:
-      '@types/node': 16.9.1
+      '@types/node': 16.10.3
       '@types/tapable': 1.0.8
       '@types/uglify-js': 3.13.1
       '@types/webpack-sources': 3.2.0
@@ -1680,10 +1680,10 @@ packages:
       source-map: 0.6.1
     dev: true
 
-  /@types/ws/7.4.7:
-    resolution: {integrity: sha512-JQbbmxZTZehdc2iszGKs5oC3NFnjeay7mtAWrdt7qNtAVK0g19muApzAy4bm9byz79xa2ZnO/BOBC2R8RC5Lww==}
+  /@types/ws/8.2.0:
+    resolution: {integrity: sha512-cyeefcUCgJlEk+hk2h3N+MqKKsPViQgF5boi9TTHSK+PoR9KWBb/C5ccPcDyAqgsbAYHTwulch725DV84+pSpg==}
     dependencies:
-      '@types/node': 16.9.1
+      '@types/node': 16.10.3
     dev: true
 
   /@types/yargs-parser/20.2.1:
